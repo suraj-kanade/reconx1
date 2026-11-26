@@ -57,4 +57,5 @@ Full implementation and source code are private.
 ---
 
 ## 📌 Status
-🚧 Actively under development
+V1 is Completed....
+🚧  Actively under development
